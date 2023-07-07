@@ -1,0 +1,13 @@
+img{
+    padding-left: 100px;
+    width: 500px;
+}
+body{
+    background-image: url(images/th.jpeg);
+}
+p{
+    color: azure;
+}
+caption{
+    color: blueviolet;
+}
