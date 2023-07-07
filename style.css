@@ -34,7 +34,8 @@ header{
 
 }
 p{
-;
+margin: 50px;
+padding-top: 100px;
     align-items: center;
     align-content: center;
 }
